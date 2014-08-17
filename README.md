@@ -1,4 +1,4 @@
 PebbleRush
 ==========
 
-a simple html5 game uses jquery  uploaded also on chrome store 
+a simple html5 game uses jquery.
